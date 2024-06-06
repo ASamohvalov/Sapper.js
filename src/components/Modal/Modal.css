@@ -1,0 +1,7 @@
+.modal-wndw {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(45, 87, 61);
+  top: 300px;
+}

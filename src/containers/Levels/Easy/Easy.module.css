@@ -1,8 +1,3 @@
-td {
-  height: 44px;
-  width: 44px;
-}
-
 table {
   margin-left: auto;
   margin-right: auto;
@@ -11,8 +6,12 @@ table {
 
 .dr_td {
   background-color: rgb(23, 70, 23);
+  height: 44px;
+  width: 44px;
 }
 
 .lt_td {
   background-color: rgb(80, 139, 80);
+  height: 44px;
+  width: 44px;
 }
