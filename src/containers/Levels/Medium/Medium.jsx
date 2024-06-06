@@ -3,11 +3,11 @@ import classes from "./Medium.module.css";
 export default function Medium() {
   return (
     <div>
-      <table>
+      <table className={classes.table_div}>
         <tbody>
-          {Array(10).fill(0).map((_, i) => (
+          {Array(15).fill(0).map((_, i) => (
             <tr key={i}>
-              {Array(20).fill(0).map((_, j) => (
+              {Array(15).fill(0).map((_, j) => (
                 <td
                   key={j}
                   className={

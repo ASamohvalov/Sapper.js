@@ -1,17 +1,17 @@
-table {
+.table_div {
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .dr_td {
   background-color: rgb(23, 70, 23);
-  height: 44px;
-  width: 44px;
+  height: 50px;
+  width: 50px;
 }
 
 .lt_td {
   background-color: rgb(80, 139, 80);
-  height: 44px;
-  width: 44px;
+  height: 50px;
+  width: 50px;
 }
